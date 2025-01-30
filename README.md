@@ -2,12 +2,7 @@
 
 This project is a backend implementation for user authentication, built with Node.js. It provides essential features like user login, signup, password recovery, email verification, and email notifications using Nodemailer. Note: The project currently focuses on backend functionality and does not include a frontend.
 
-## Features
-- **Login Page**: Authenticate users with their credentials.
-- **Signup Page**: Allow users to create a new account.
-- **Forgot Password**: Enable users to reset their password securely.
-- **Email Verification**: Send verification emails to users for account confirmation.
-- **Nodemailer Integration**: Handle email communication for password recovery and account verification.
+
 
 ## Technologies Used
 - **Node.js**: Backend runtime environment.
